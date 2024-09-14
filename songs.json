@@ -1,0 +1,956 @@
+[
+    {
+        "songName": "魔法少女とチョコレゐト",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.2321
+    },
+    {
+        "songName": "魔法少女とチョコレゐト",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.3547
+    },
+    {
+        "songName": "花となれ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.6577
+    },
+    {
+        "songName": "系ぎて",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.7671
+    },
+    {
+        "songName": "系ぎて",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 91.3493
+    },
+    {
+        "songName": "竹",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.1166
+    },
+    {
+        "songName": "響け！CHIREI MY WAY!",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.0323
+    },
+    {
+        "songName": "裏表ラバーズ",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 89.85
+    },
+    {
+        "songName": "田中",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.4782
+    },
+    {
+        "songName": "月に叢雲華に風",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.6357
+    },
+    {
+        "songName": "最強STRONGER",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.3616
+    },
+    {
+        "songName": "時空を超えて久しぶり！",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 98.4997
+    },
+    {
+        "songName": "春嵐",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.6918
+    },
+    {
+        "songName": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.8902
+    },
+    {
+        "songName": "星界ちゃんと可不ちゃんのおつかい合騒曲",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.0178
+    },
+    {
+        "songName": "幸せになれる隠しコマンドがあるらしい",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 100.0112
+    },
+    {
+        "songName": "太陽系デスコ",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.6851
+    },
+    {
+        "songName": "太陽系デスコ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.3593
+    },
+    {
+        "songName": "夜に駆ける",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.9855
+    },
+    {
+        "songName": "夜に駆ける",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 97.967
+    },
+    {
+        "songName": "回レ！雪月花",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.1454
+    },
+    {
+        "songName": "四月の雨",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 98.6087
+    },
+    {
+        "songName": "前前前世",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 96.2933
+    },
+    {
+        "songName": "前前前世",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.6289
+    },
+    {
+        "songName": "回レ！雪月花",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 96.0164
+    },
+    {
+        "songName": "初音ミクの激唱",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 97.5487
+    },
+    {
+        "songName": "初音ミクの消失",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 97.9983
+    },
+    {
+        "songName": "初音ミクの消失",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.6421
+    },
+    {
+        "songName": "六兆年と一夜物語",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 98.5076
+    },
+    {
+        "songName": "光線チューニング",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.5733
+    },
+    {
+        "songName": "光線チューニング",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 98.9478
+    },
+    {
+        "songName": "僕の和風本当上手",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.1085
+    },
+    {
+        "songName": "三妖精SAY YA!!!",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.6633
+    },
+    {
+        "songName": "三妖精SAY YA!!!",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.6353
+    },
+    {
+        "songName": "ヴァンパイア",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 87.6219
+    },
+    {
+        "songName": "ヴァンパイア",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.591
+    },
+    {
+        "songName": "ロールプレイングゲーム",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 100.6556
+    },
+    {
+        "songName": "ロールプレイングゲーム",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 98.8647
+    },
+    {
+        "songName": "ローリンガール",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 96.629
+    },
+    {
+        "songName": "ローリンガール",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 97.5599
+    },
+    {
+        "songName": "ロキ",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 98.7147
+    },
+    {
+        "songName": "ラグトレイン",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.627
+    },
+    {
+        "songName": "ミルキースター・シューティングスター",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.3741
+    },
+    {
+        "songName": "ヒバナ",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.1839
+    },
+    {
+        "songName": "ヒバナ",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 95.4858
+    },
+    {
+        "songName": "ヒバナ",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 99.5014
+    },
+    {
+        "songName": "ハッピーシンセサイザ",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 99.2625
+    },
+    {
+        "songName": "ナイト・オブ・ナイツ (Cranky Remix)",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.4562
+    },
+    {
+        "songName": "テリトリーバトル",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.1896
+    },
+    {
+        "songName": "チルノのパーフェクトさんすう教室　⑨周年バージョン",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 93.7406
+    },
+    {
+        "songName": "チルノのパーフェクトさんすう教室",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.8279
+    },
+    {
+        "songName": "チルノのパーフェクトさんすう教室",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 94.9477
+    },
+    {
+        "songName": "ダンスロボットダンス",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 93.0839
+    },
+    {
+        "songName": "ダンスロボットダンス",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.4734
+    },
+    {
+        "songName": "ゴーストルール",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 100.486
+    },
+    {
+        "songName": "ゴーストルール",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 95.5132
+    },
+    {
+        "songName": "ゴーストルール",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.2459
+    },
+    {
+        "songName": "ゴーストルール",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 92.1286
+    },
+    {
+        "songName": "コスモポップファンクラブ",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.3363
+    },
+    {
+        "songName": "コスモポップファンクラブ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.3931
+    },
+    {
+        "songName": "グッバイ宣言",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.6408
+    },
+    {
+        "songName": "キミノヨゾラ哨戒班",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 97.837
+    },
+    {
+        "songName": "キミノヨゾラ哨戒班",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 95.4973
+    },
+    {
+        "songName": "エンドマークに希望と涙を添えて",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.147
+    },
+    {
+        "songName": "ウミユリ海底譚",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 96.961
+    },
+    {
+        "songName": "インドア系ならトラックメイカー",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.2405
+    },
+    {
+        "songName": "インドア系ならトラックメイカー",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.0768
+    },
+    {
+        "songName": "アンドロイドガール",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.0545
+    },
+    {
+        "songName": "アンドロイドガール",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.8576
+    },
+    {
+        "songName": "アカリがやってきたぞっ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.8392
+    },
+    {
+        "songName": "もぺもぺ",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 91.3656
+    },
+    {
+        "songName": "どぅーまいべすと！",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.7332
+    },
+    {
+        "songName": "だんだん早くなる",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 99.1321
+    },
+    {
+        "songName": "だから僕は音楽を辞めた",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.818
+    },
+    {
+        "songName": "きゅうくらりん",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.5833
+    },
+    {
+        "songName": "きゅうくらりん",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.1019
+    },
+    {
+        "songName": "tape/stop/night",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.8783
+    },
+    {
+        "songName": "only my railgun",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 95.2664
+    },
+    {
+        "songName": "only my railgun",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 88.0344
+    },
+    {
+        "songName": "energy trixxx",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.8397
+    },
+    {
+        "songName": "emomomo",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.5134
+    },
+    {
+        "songName": "emomomo",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.7983
+    },
+    {
+        "songName": "c.s.q.n.",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.0056
+    },
+    {
+        "songName": "enchanted love",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.4236
+    },
+    {
+        "songName": "World Vanquisher",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.2143
+    },
+    {
+        "songName": "WARNING×WARNING×WARNING",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 93.9381
+    },
+    {
+        "songName": "WARNING×WARNING×WARNING",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.9422
+    },
+    {
+        "songName": "WARNING×WARNING×WARNING",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.9602
+    },
+    {
+        "songName": "Virtual to LIVE",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.9877
+    },
+    {
+        "songName": "Virtual to LIVE",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.7271
+    },
+    {
+        "songName": "Virtual to LIVE",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 100.4875
+    },
+    {
+        "songName": "ULTRA SYNERGY MATRIX",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.9468
+    },
+    {
+        "songName": "ULTRA SYNERGY MATRIX",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 95.3472
+    },
+    {
+        "songName": "U&iVERSE -銀河鸞翔-",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 97.4122
+    },
+    {
+        "songName": "Titania",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 91.1556
+    },
+    {
+        "songName": "Reach For The Stars",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 99.92
+    },
+    {
+        "songName": "Reach For The Stars (Re-Colors)",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.116
+    },
+    {
+        "songName": "Random",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.5113
+    },
+    {
+        "songName": "QZKago Requiem",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 97.3136
+    },
+    {
+        "songName": "PUPA",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.7654
+    },
+    {
+        "songName": "PANDORA PARADOXXX",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 87.8833
+    },
+    {
+        "songName": "PANDORA PARADOXXX",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 85.1166
+    },
+    {
+        "songName": "Oshama Scramble!",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 91.1015
+    },
+    {
+        "songName": "Oshama Scramble!",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 96.181
+    },
+    {
+        "songName": "Oshama Scramble!",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 82.313
+    },
+    {
+        "songName": "OTOGEMA",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.6643
+    },
+    {
+        "songName": "OTOGEMA",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 94.0399
+    },
+    {
+        "songName": "Never Give Up!",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.929
+    },
+    {
+        "songName": "MilK",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 94.4786
+    },
+    {
+        "songName": "MAKE IT FUNKY NOW",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 94.4652
+    },
+    {
+        "songName": "Lost Princess",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 95.873
+    },
+    {
+        "songName": "KING",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.7117
+    },
+    {
+        "songName": "INTERNET OVERDOSE",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.1963
+    },
+    {
+        "songName": "INTERNET OVERDOSE",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.9703
+    },
+    {
+        "songName": "Halcyon",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 97.0702
+    },
+    {
+        "songName": "Grievous Lady",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 94.136
+    },
+    {
+        "songName": "Final Step!",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.836
+    },
+    {
+        "songName": "FREEDOM DiVE (tpz Overcute Remix)",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 100.0835
+    },
+    {
+        "songName": "Ether Strike",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.4919
+    },
+    {
+        "songName": "ENERGY SYNERGY MATRIX",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 97.035
+    },
+    {
+        "songName": "Don't Fight The Music",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 95.7584
+    },
+    {
+        "songName": "Cyaegha",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 97.3526
+    },
+    {
+        "songName": "Cyaegha",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 95.7204
+    },
+    {
+        "songName": "Cthugha",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.1122
+    },
+    {
+        "songName": "CHAOS",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 97.2106
+    },
+    {
+        "songName": "Brain Power",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 98.5313
+    },
+    {
+        "songName": "Brain Power",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 93.3331
+    },
+    {
+        "songName": "Believe the Rainbow",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 96.9536
+    },
+    {
+        "songName": "Baddest",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.3368
+    },
+    {
+        "songName": "Bad Apple!! feat nomico",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 94.908
+    },
+    {
+        "songName": "B.B.K.K.B.K.K.",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 95.0281
+    },
+    {
+        "songName": "Altale",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 97.9883
+    },
+    {
+        "songName": "Aegleseeker",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.7887
+    },
+    {
+        "songName": "39",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.8446
+    },
+    {
+        "songName": "39",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.2806
+    },
+    {
+        "songName": "7thSense",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 96.1815
+    },
+    {
+        "songName": "39みゅーじっく！",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.7383
+    },
+    {
+        "songName": "色は匂へど散りぬるを",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.2794
+    },
+    {
+        "songName": "Party☆People☆Princess",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.7078
+    },
+    {
+        "songName": "with U",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.2602
+    },
+    {
+        "songName": "with U",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.9283
+    },
+    {
+        "songName": "I’m Here (feat. Merry Kirk-Holmes)",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.2462
+    },
+    {
+        "songName": "あなたは世界の終わりにずんだを食べるのだ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.9135
+    },
+    {
+        "songName": "ずんだもんの朝食　〜目覚ましずんラップ〜",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.1035
+    },
+    {
+        "songName": "QUEEN",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.8404
+    },
+    {
+        "songName": "さよならプリンセス",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.5115
+    },
+    {
+        "songName": "天使の翼。",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.3025
+    },
+    {
+        "songName": "End Time",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 100.591
+    },
+    {
+        "songName": "ENERGY SYNERGY MATRIX",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.3255
+    },
+    {
+        "songName": "Reach For The Stars",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 96.5415
+    },
+    {
+        "songName": "アンドロイドガール",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.3434
+    },
+    {
+        "songName": "アスノヨゾラ哨戒班",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.7728
+    },
+    {
+        "songName": "ヴァンパイア",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 96.902
+    },
+    {
+        "songName": "METEOR",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.3336
+    },
+    {
+        "songName": "39",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 97.8331
+    },
+    {
+        "songName": "tape/stop/night",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.6807
+    },
+    {
+        "songName": "エンドマークに希望と涙を添えて",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 93.5514
+    },
+    {
+        "songName": "Regulus",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.4326
+    },
+    {
+        "songName": "oboro",
+        "difficulty": 2,
+        "chartType": 0,
+        "achievement": 100.2074
+    }
+]
