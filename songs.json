@@ -387,7 +387,7 @@
         "songName": "ウミユリ海底譚",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 96.961
+        "achievement": 97.7534
     },
     {
         "songName": "インドア系ならトラックメイカー",
@@ -429,8 +429,7 @@
         "songName": "どぅーまいべすと！",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 98.7332
-    },
+        "achievement": 100.3249
     {
         "songName": "だんだん早くなる",
         "difficulty": 3,
@@ -897,7 +896,7 @@
         "songName": "Reach For The Stars",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 96.5415
+        "achievement": 98.302
     },
     {
         "songName": "アンドロイドガール",
@@ -952,5 +951,12 @@
         "difficulty": 2,
         "chartType": 0,
         "achievement": 100.2074
+    },
+    {
+        "songName": "白ゆき",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 96.8433
     }
+
 ]
