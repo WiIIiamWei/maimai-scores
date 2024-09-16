@@ -430,6 +430,7 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 100.3249
+    },
     {
         "songName": "だんだん早くなる",
         "difficulty": 3,
@@ -590,7 +591,7 @@
         "songName": "QZKago Requiem",
         "difficulty": 2,
         "chartType": 0,
-        "achievement": 97.3136
+        "achievement": 97.9263
     },
     {
         "songName": "PUPA",
@@ -890,7 +891,7 @@
         "songName": "ENERGY SYNERGY MATRIX",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.3255
+        "achievement": 98.4821
     },
     {
         "songName": "Reach For The Stars",
@@ -957,6 +958,17 @@
         "difficulty": 3,
         "chartType": 0,
         "achievement": 96.8433
+    },
+    {
+        "songName": "Reach For The Stars (Re-Colors)",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.2496
+    },
+    {
+        "songName": "Final Step!",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.118
     }
-
 ]
