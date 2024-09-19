@@ -237,7 +237,7 @@
         "songName": "ローリンガール",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 97.5599
+        "achievement": 98.6106
     },
     {
         "songName": "ロキ",
@@ -273,7 +273,7 @@
         "songName": "ヒバナ",
         "difficulty": 4,
         "chartType": 0,
-        "achievement": 99.5014
+        "achievement": 99.8824
     },
     {
         "songName": "ハッピーシンセサイザ",
@@ -345,7 +345,7 @@
         "songName": "ゴーストルール",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 92.1286
+        "achievement": 97.4152
     },
     {
         "songName": "コスモポップファンクラブ",
@@ -375,7 +375,7 @@
         "songName": "キミノヨゾラ哨戒班",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 95.4973
+        "achievement": 98.6884
     },
     {
         "songName": "エンドマークに希望と涙を添えて",
@@ -387,7 +387,7 @@
         "songName": "ウミユリ海底譚",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 97.7534
+        "achievement": 99.1674
     },
     {
         "songName": "インドア系ならトラックメイカー",
@@ -873,7 +873,7 @@
         "songName": "さよならプリンセス",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.5115
+        "achievement": 99.5421
     },
     {
         "songName": "天使の翼。",
@@ -970,5 +970,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 97.118
+    },
+    {
+        "songName": "MAKE IT FUNKY NOW",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 95.6584
+    },
+    {
+        "songName": "LAMIA",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.4155
     }
 ]
