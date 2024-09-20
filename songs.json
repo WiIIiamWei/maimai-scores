@@ -255,7 +255,7 @@
         "songName": "ミルキースター・シューティングスター",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 98.3741
+        "achievement": 99.4366
     },
     {
         "songName": "ヒバナ",
@@ -639,7 +639,7 @@
         "songName": "OTOGEMA",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 94.0399
+        "achievement": 98.0487
     },
     {
         "songName": "Never Give Up!",
@@ -765,7 +765,7 @@
         "songName": "Believe the Rainbow",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 96.9536
+        "achievement": 97.6955
     },
     {
         "songName": "Baddest",
@@ -843,7 +843,7 @@
         "songName": "with U",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.9283
+        "achievement": 98.6251
     },
     {
         "songName": "I’m Here (feat. Merry Kirk-Holmes)",
@@ -982,5 +982,17 @@
         "difficulty": 2,
         "chartType": 1,
         "achievement": 98.4155
+    },
+    {
+        "songName": "シックスプラン",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.5796
+    },
+    {
+        "songName": "oboro",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.3659
     }
 ]
