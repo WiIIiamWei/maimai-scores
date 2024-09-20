@@ -8,7 +8,7 @@ Use `main.py` to add new scores.
 
 > Using maimai BUDDiES (Generic)
 
-![scoreb50.png](https://github.com/WiIIiamWei/maimai-scores/blob/master/scoreb50.png)
+![scoreb50.jpg](https://github.com/WiIIiamWei/maimai-scores/blob/master/scoreb50.jpg)
 
 ## References
 
