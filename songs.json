@@ -681,7 +681,7 @@
         "songName": "INTERNET OVERDOSE",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.9703
+        "achievement": 100.3641
     },
     {
         "songName": "Halcyon",
@@ -994,5 +994,11 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 97.3659
+    },
+    {
+        "songName": "テオ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.5319
     }
 ]
