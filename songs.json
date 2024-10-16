@@ -105,7 +105,7 @@
         "songName": "太陽系デスコ",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 100.3593
+        "achievement": 100.7726
     },
     {
         "songName": "夜に駆ける",
@@ -957,7 +957,7 @@
         "songName": "白ゆき",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 96.8433
+        "achievement": 98.9646
     },
     {
         "songName": "Reach For The Stars (Re-Colors)",
@@ -1000,5 +1000,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 98.5319
+    },
+    {
+        "songName": "明星ギャラクティカ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.4892
+    },
+    {
+        "songName": "初音ミクの消失",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.1941
     }
 ]
