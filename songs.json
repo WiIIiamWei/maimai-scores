@@ -315,7 +315,7 @@
         "songName": "ダンスロボットダンス",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 93.0839
+        "achievement": 98.0241
     },
     {
         "songName": "ダンスロボットダンス",
@@ -363,7 +363,7 @@
         "songName": "グッバイ宣言",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 98.6408
+        "achievement": 99.6025
     },
     {
         "songName": "キミノヨゾラ哨戒班",
@@ -1012,5 +1012,11 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 96.1941
+    },
+    {
+        "songName": "フォニイ",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 99.6583
     }
 ]
