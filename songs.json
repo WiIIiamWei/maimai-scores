@@ -255,7 +255,7 @@
         "songName": "ミルキースター・シューティングスター",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 99.4366
+        "achievement": 99.8022
     },
     {
         "songName": "ヒバナ",
@@ -765,7 +765,7 @@
         "songName": "Believe the Rainbow",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 97.6955
+        "achievement": 99.0456
     },
     {
         "songName": "Baddest",
@@ -984,12 +984,6 @@
         "achievement": 99.9387
     },
     {
-        "songName": "シックスプラン",
-        "difficulty": 3,
-        "chartType": 1,
-        "achievement": 96.5796
-    },
-    {
         "songName": "oboro",
         "difficulty": 3,
         "chartType": 1,
@@ -1018,5 +1012,23 @@
         "difficulty": 4,
         "chartType": 1,
         "achievement": 99.6583
+    },
+    {
+        "songName": "enchanted wanderer",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.8623
+    },
+    {
+        "songName": "Never Give Up!",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 97.7178
+    },
+    {
+        "songName": "シックスプラン",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.96
     }
 ]
