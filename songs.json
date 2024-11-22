@@ -57,7 +57,7 @@
         "songName": "月に叢雲華に風",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 98.6357
+        "achievement": 100.4852
     },
     {
         "songName": "最強STRONGER",
@@ -438,6 +438,12 @@
         "achievement": 99.1321
     },
     {
+        "songName": "だんだん早くなる",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 97.0057
+    },
+    {
         "songName": "だから僕は音楽を辞めた",
         "difficulty": 3,
         "chartType": 1,
@@ -714,6 +720,18 @@
         "achievement": 99.4919
     },
     {
+        "songName": "Ether Strike",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.0949
+    },
+    {
+        "songName": "raputa",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.9505
+    },
+    {
         "songName": "ENERGY SYNERGY MATRIX",
         "difficulty": 2,
         "chartType": 1,
@@ -825,7 +843,7 @@
         "songName": "色は匂へど散りぬるを",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.2794
+        "achievement": 97.9915
     },
     {
         "songName": "Party☆People☆Princess",
@@ -957,7 +975,7 @@
         "songName": "白ゆき",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 98.9646
+        "achievement": 99.6407
     },
     {
         "songName": "Reach For The Stars (Re-Colors)",
