@@ -1048,5 +1048,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 96.96
+    },
+    {
+        "songName": "＊ハロー、プラネット。",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.3925
+    },
+    {
+        "songName": "Ether Second",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 95.1955
     }
 ]
