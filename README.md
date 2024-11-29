@@ -1,5 +1,7 @@
 # maimai-scores
 
+**WARNING: ALL CHARTS ARE FROM THE INTERNET AND NOT RELATED TO MAIMAI (SEGA).**
+
 Here keeps all my maimai scores (unofficial) from AstroDX. See the progress here.
 
 Use `main.py` to add new scores.
