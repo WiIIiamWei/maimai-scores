@@ -1060,5 +1060,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 95.1955
+    },
+    {
+        "songName": "This game",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 99.3934
+    },
+    {
+        "songName": "Shiny Smily Story",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.1057
     }
 ]
