@@ -1072,5 +1072,23 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 100.1057
+    },
+    {
+        "songName": "スカーレット警察のゲットーパトロール24時",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.6118
+    },
+    {
+        "songName": "蜘蛛の糸",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.4502
+    },
+    {
+        "songName": "蜘蛛の糸",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 96.2465
     }
 ]
