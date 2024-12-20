@@ -1090,5 +1090,95 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 96.2465
+    },
+    {
+        "songName": "偉大なる悪魔は実は大天使パトラちゃん様なのだ！",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.8606
+    },
+    {
+        "songName": "匿名M",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.1114
+    },
+    {
+        "songName": "INTERNET YAMERO",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.6327
+    },
+    {
+        "songName": "強風オールバック",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.1376
+    },
+    {
+        "songName": "寝起きヤシの木",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.7839
+    },
+    {
+        "songName": "アイドル",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 99.9893
+    },
+    {
+        "songName": "ハッピーシンセサイザ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.9207
+    },
+    {
+        "songName": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.6221
+    },
+    {
+        "songName": "INFiNiTE ENERZY -Overdoze-",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 98.6973
+    },
+    {
+        "songName": "バカ通信",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.6131
+    },
+    {
+        "songName": "ouroboros -twin stroke of the end-",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.7169
+    },
+    {
+        "songName": "LOSTPHANTASIA",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.2673
+    },
+    {
+        "songName": "壱雫空",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.733
+    },
+    {
+        "songName": "MarbleBlue.",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.429
+    },
+    {
+        "songName": "Everybody Say HARDCORE TANO*C",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.4516
     }
 ]
