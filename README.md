@@ -12,6 +12,10 @@ Use `main.py` to add new scores.
 
 ![scoreb50.jpg](https://github.com/WiIIiamWei/maimai-scores/blob/master/scoreb50.jpg)
 
+## Rating Graph
+
+![rating.jpg](https://github.com/WiIIiamWei/maimai-scores/blob/master/history/rating.jpg)
+
 ## References
 
 [mai-tools Rating Calculator](https://myjian.github.io/mai-tools/rating-calculator/#ratingOutput)
