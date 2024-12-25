@@ -333,7 +333,7 @@
         "songName": "ゴーストルール",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 95.5132
+        "achievement": 99.6272
     },
     {
         "songName": "ゴーストルール",
@@ -357,7 +357,7 @@
         "songName": "コスモポップファンクラブ",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 98.5936
+        "achievement": 99.6771
     },
     {
         "songName": "グッバイ宣言",
@@ -399,7 +399,7 @@
         "songName": "インドア系ならトラックメイカー",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 96.1781
+        "achievement": 96.5991
     },
     {
         "songName": "アンドロイドガール",
@@ -1131,7 +1131,7 @@
         "songName": "ハッピーシンセサイザ",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.9207
+        "achievement": 100.2289
     },
     {
         "songName": "Bad Apple!! feat.nomico (Tetsuya Komuro Remix)",
@@ -1180,5 +1180,11 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 98.4516
+    },
+    {
+        "songName": "Southern Cross",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 96.3224
     }
 ]

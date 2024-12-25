@@ -20,11 +20,12 @@ jobs:
 
     - name: Install dependencies
       run: |
+        sudo apt install tesseract-ocr
         python -m pip install --upgrade pip
         pip install matplotlib numpy pytesseract pillow opencv-python-headless
 
     - name: Run graph.py
-      run: python graph.py
+      run: python history/graph.py
 
     - name: Commit and push changes
       run: |
