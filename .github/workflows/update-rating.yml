@@ -5,6 +5,9 @@ on:
     paths:
       - 'scoreb50.jpg'
 
+permissions:
+  contents: write
+
 jobs:
   update-rating:
     runs-on: ubuntu-latest
