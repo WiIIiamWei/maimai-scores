@@ -255,7 +255,7 @@
         "songName": "ミルキースター・シューティングスター",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 99.8022
+        "achievement": 100.0139
     },
     {
         "songName": "ヒバナ",
@@ -1192,5 +1192,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 100.1019
+    },
+    {
+        "songName": "ベースラインやってる？笑",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.7894
+    },
+    {
+        "songName": "ラビットホール",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 99.4636
     }
 ]
