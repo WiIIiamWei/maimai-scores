@@ -399,7 +399,7 @@
         "songName": "インドア系ならトラックメイカー",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 96.5991
+        "achievement": 97.5615
     },
     {
         "songName": "アンドロイドガール",
@@ -879,7 +879,7 @@
         "songName": "ずんだもんの朝食　〜目覚ましずんラップ〜",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 99.1765
+        "achievement": 99.9119
     },
     {
         "songName": "QUEEN",
@@ -1047,7 +1047,7 @@
         "songName": "シックスプラン",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 96.96
+        "achievement": 97.0920
     },
     {
         "songName": "＊ハロー、プラネット。",
@@ -1204,5 +1204,11 @@
         "difficulty": 4,
         "chartType": 1,
         "achievement": 99.4636
+    },
+    {
+        "songName": "Grievous Lady",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 94.3848
     }
 ]
