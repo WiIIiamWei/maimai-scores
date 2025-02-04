@@ -549,7 +549,7 @@
         "songName": "Virtual to LIVE",
         "difficulty": 4,
         "chartType": 1,
-        "achievement": 100.4875
+        "achievement": 100.4928
     },
     {
         "songName": "ULTRA SYNERGY MATRIX",
@@ -1023,7 +1023,7 @@
         "songName": "初音ミクの消失",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 96.1941
+        "achievement": 98.0662
     },
     {
         "songName": "フォニイ",
@@ -1047,7 +1047,7 @@
         "songName": "シックスプラン",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.0920
+        "achievement": 97.092
     },
     {
         "songName": "＊ハロー、プラネット。",
@@ -1210,5 +1210,11 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 94.3848
+    },
+    {
+        "songName": "Rush-Hour",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.43
     }
 ]
