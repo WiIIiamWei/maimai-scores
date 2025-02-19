@@ -2,19 +2,31 @@
 
 **WARNING: ALL CHARTS ARE FROM THE INTERNET AND NOT RELATED TO MAIMAI (SEGA).**
 
-Here keeps all my maimai scores (unofficial) from AstroDX. See the progress here.
+Here keeps all my maimai scores (unofficial) from AstroDX and official score from maimai (CN ver.). See the progress here.
 
 Use `main.py` to add new scores.
 
-## Current Best 50
+## AstroDX
+
+### Current Best 50
 
 > Using maimai BUDDiES PLUS (Generic)
 
-![scoreb50.jpg](https://github.com/WiIIiamWei/maimai-scores/blob/master/scoreb50.jpg)
+![scoreb50.jpg](scoreb50.jpg)
 
-## Rating Graph
+### Rating Graph
 
-![rating.jpg](https://github.com/WiIIiamWei/maimai-scores/blob/master/history/rating.jpg)
+![rating.jpg](history/rating.jpg)
+
+## maimai (CN ver.)
+
+### Current Best 50
+
+![realb50.jpg](realb50.jpg)
+
+### Rating Graph
+
+![realrating.jpg](history/realrating.jpg)
 
 ## References
 
@@ -23,3 +35,7 @@ Use `main.py` to add new scores.
 [DXRating.net](https://dxrating.net/rating)
 
 [maimai | arcade-songs](https://arcade-songs.zetaraku.dev/maimai/)
+
+[舞萌 DX 查分器](https://www.diving-fish.com/maimaidx/prober/)
+
+[可怜 Bot](https://karenbot.xszq.xyz)
