@@ -83,20 +83,28 @@ def main():
         last_real_rating = row[1]
     print(f"Last rating: {last_rating}")
     print(f"Current rating: {current_rating}")
-    print(f"Diff: {int(current_rating) - int(last_rating)}")
+    diff = int(current_rating) - int(last_rating)
+    print(f"Diff: {diff}")
     print(f"Real rating: {last_real_rating}")
     print(f"Current real rating: {current_real_rating}")
-    print(f"Diff: {int(current_real_rating) - int(last_real_rating)}")
-    with open('history/rating.csv', 'a', newline='') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow([time, last_rating])
-        writer.writerow([time, current_rating])
-    with open('history/realrating.csv', 'a', newline='') as realcsvfile:
-        writer = csv.writer(realcsvfile)
-        writer.writerow([time, last_real_rating])
-        writer.writerow([time, current_real_rating])
+    real_diff = int(current_real_rating) - int(last_real_rating)
+    print(f"Diff: {real_diff}")
+    if diff > 0:
+        with open('history/rating.csv', 'a', newline='') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow([time, last_rating])
+            writer.writerow([time, current_rating])
+        draw_graph()
+    else:
+        print("No change in rating")
+    if real_diff > 0:
+        with open('history/realrating.csv', 'a', newline='') as realcsvfile:
+            writer = csv.writer(realcsvfile)
+            writer.writerow([time, last_real_rating])
+            writer.writerow([time, current_real_rating])
+        draw_real_graph()
+    else:
+        print("No change in real rating")
 
 if __name__ == "__main__":
     main()
-    draw_graph()
-    draw_real_graph()
