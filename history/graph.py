@@ -83,10 +83,22 @@ def main():
         last_real_rating = row[1]
     print(f"Last rating: {last_rating}")
     print(f"Current rating: {current_rating}")
+    try:
+        current_rating = int(current_rating)
+        if not isinstance(int(current_rating), int):
+            current_rating = int(input("Real rating detection error! Please enter rating manually: "))
+    except ValueError:
+        current_rating = int(input("Real rating detection error! Please enter rating manually: "))
     diff = int(current_rating) - int(last_rating)
     print(f"Diff: {diff}")
     print(f"Real rating: {last_real_rating}")
     print(f"Current real rating: {current_real_rating}")
+    try:
+        current_real_rating = int(current_real_rating)
+        if not isinstance(int(current_real_rating), int):
+            current_real_rating = int(input("Real rating detection error! Please enter rating manually: "))
+    except ValueError:
+        current_real_rating = int(input("Real rating detection error! Please enter rating manually: "))
     real_diff = int(current_real_rating) - int(last_real_rating)
     print(f"Diff: {real_diff}")
     if diff > 0:

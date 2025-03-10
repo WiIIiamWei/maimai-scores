@@ -321,7 +321,7 @@
         "songName": "ダンスロボットダンス",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.4734
+        "achievement": 100.3673
     },
     {
         "songName": "ゴーストルール",
@@ -1047,7 +1047,7 @@
         "songName": "シックスプラン",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.092
+        "achievement": 98.7527
     },
     {
         "songName": "＊ハロー、プラネット。",
@@ -1216,5 +1216,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 98.43
+    },
+    {
+        "songName": "まにまに",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.7713
+    },
+    {
+        "songName": "トンデモワンダーズ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.9198
     }
 ]
