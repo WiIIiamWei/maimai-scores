@@ -1107,7 +1107,7 @@
         "songName": "INTERNET YAMERO",
         "difficulty": 4,
         "chartType": 1,
-        "achievement": 98.6327
+        "achievement": 99.6187
     },
     {
         "songName": "強風オールバック",
@@ -1228,5 +1228,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 98.9198
+    },
+    {
+        "songName": "Knight Rider",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.027
+    },
+    {
+        "songName": "ハードコア・シンドローム",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.4937
     }
 ]
