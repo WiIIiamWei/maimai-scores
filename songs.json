@@ -633,7 +633,7 @@
         "songName": "Oshama Scramble!",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 82.313
+        "achievement": 97.3969
     },
     {
         "songName": "OTOGEMA",
@@ -777,13 +777,13 @@
         "songName": "Brain Power",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 93.3331
+        "achievement": 98.7453
     },
     {
         "songName": "Believe the Rainbow",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 99.0456
+        "achievement": 99.838
     },
     {
         "songName": "Baddest",
@@ -825,7 +825,7 @@
         "songName": "39",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.2806
+        "achievement": 100.454
     },
     {
         "songName": "7thSense",
@@ -945,7 +945,7 @@
         "songName": "39",
         "difficulty": 4,
         "chartType": 0,
-        "achievement": 97.8331
+        "achievement": 100.2693
     },
     {
         "songName": "tape/stop/night",
@@ -1041,7 +1041,13 @@
         "songName": "Never Give Up!",
         "difficulty": 4,
         "chartType": 1,
-        "achievement": 97.7178
+        "achievement": 99.3306
+    },
+    {
+        "songName": "Never Give Up!",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.7565
     },
     {
         "songName": "シックスプラン",
@@ -1240,5 +1246,17 @@
         "difficulty": 3,
         "chartType": 1,
         "achievement": 98.4937
+    },
+    {
+        "songName": "ARROW",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 100.2899
+    },
+    {
+        "songName": "KISS CANDY FLAVOR",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 100.0918
     }
 ]
