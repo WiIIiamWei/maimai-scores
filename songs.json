@@ -1258,5 +1258,17 @@
         "difficulty": 3,
         "chartType": 0,
         "achievement": 100.0918
+    },
+    {
+        "songName": "あつすぎの歌",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.4835
+    },
+    {
+        "songName": "熱異常",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 98.8918
     }
 ]
