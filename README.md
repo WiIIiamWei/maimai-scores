@@ -4,7 +4,7 @@
 
 Here keeps all my maimai scores (unofficial) from AstroDX and official scores from maimai (CN ver.). See the progress here.
 
-Use `main.py` to add new scores. Use `history/graph.py` to 
+Use `main.py` to add new scores. Use `history/graph.py` to draw history graphs (`matplotlib`, `numpy`, `tesseract`, `pillow`, `opencv-python` required). 
 
 ## AstroDX
 
