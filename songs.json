@@ -915,7 +915,7 @@
         "songName": "Reach For The Stars",
         "difficulty": 3,
         "chartType": 0,
-        "achievement": 98.302
+        "achievement": 98.6458
     },
     {
         "songName": "アンドロイドガール",
@@ -951,7 +951,7 @@
         "songName": "tape/stop/night",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 97.6807
+        "achievement": 99.6756
     },
     {
         "songName": "エンドマークに希望と涙を添えて",
@@ -1270,5 +1270,119 @@
         "difficulty": 4,
         "chartType": 1,
         "achievement": 99.6149
+    },
+    {
+        "songName": "How To Make 音ゲ～曲！",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.6599
+    },
+    {
+        "songName": "ピポピポ -People People- feat. ななひら",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.1104
+    },
+    {
+        "songName": "雨露霜雪",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.1385
+    },
+    {
+        "songName": "宙天",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 99.1412
+    },
+    {
+        "songName": "ずんだパーリナイ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.8863
+    },
+    {
+        "songName": "Colorfull:Encounter",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.3247
+    },
+    {
+        "songName": "勇者",
+        "difficulty": 4,
+        "chartType": 1,
+        "achievement": 98.1522
+    },
+    {
+        "songName": "Photon Melodies",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.7172
+    },
+    {
+        "songName": "Radiance",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.9965
+    },
+    {
+        "songName": "無間嫉妬劇場『666』",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 99.7104
+    },
+    {
+        "songName": "MORNINGLOOM",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.974
+    },
+    {
+        "songName": "オーバーライド",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.5074
+    },
+    {
+        "songName": "いっぱい食べる君が好きだよ",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.8751
+    },
+    {
+        "songName": "オーバーライド",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.5074
+    },
+    {
+        "songName": "Ourania",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 97.8785
+    },
+    {
+        "songName": "転生林檎",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 98.0745
+    },
+    {
+        "songName": "右に曲ガール",
+        "difficulty": 3,
+        "chartType": 1,
+        "achievement": 100.5197
+    },
+    {
+        "songName": "Chronomia",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.6586
+    },
+    {
+        "songName": "Divide et impera!",
+        "difficulty": 2,
+        "chartType": 1,
+        "achievement": 100.7696
     }
 ]

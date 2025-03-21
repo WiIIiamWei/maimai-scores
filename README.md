@@ -2,9 +2,9 @@
 
 **WARNING: ALL CHARTS ARE FROM THE INTERNET AND NOT RELATED TO MAIMAI (SEGA).**
 
-Here keeps all my maimai scores (unofficial) from AstroDX and official score from maimai (CN ver.). See the progress here.
+Here keeps all my maimai scores (unofficial) from AstroDX and official scores from maimai (CN ver.). See the progress here.
 
-Use `main.py` to add new scores.
+Use `main.py` to add new scores. Use `history/graph.py` to 
 
 ## AstroDX
 
@@ -13,6 +13,12 @@ Use `main.py` to add new scores.
 > Using maimai BUDDiES PLUS (Generic)
 
 ![scoreb50.jpg](scoreb50.jpg)
+
+> Using maimai PRiSM (Generic)
+>
+> *Due to the fact that some charts are not yet released in the INTL version, this version's plays will not be updated in the graph. Damn, I simply wants to play the latest charts.*
+
+![prismb50.jpg](prismb50.jpg)
 
 ### Rating Graph
 
