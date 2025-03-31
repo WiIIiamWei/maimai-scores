@@ -1365,7 +1365,7 @@
         "songName": "転生林檎",
         "difficulty": 3,
         "chartType": 1,
-        "achievement": 98.0745
+        "achievement": 99.8709
     },
     {
         "songName": "右に曲ガール",
@@ -1384,5 +1384,17 @@
         "difficulty": 2,
         "chartType": 1,
         "achievement": 100.7696
+    },
+    {
+        "songName": "妄想感傷代償連盟",
+        "difficulty": 4,
+        "chartType": 0,
+        "achievement": 98.8061
+    },
+    {
+        "songName": "パーフェクト生命",
+        "difficulty": 3,
+        "chartType": 0,
+        "achievement": 99.1968
     }
 ]
