@@ -10,15 +10,9 @@ Use `main.py` to add new scores. Use `history/graph.py` to draw history graphs (
 
 ### Current Best 50
 
-> Using maimai BUDDiES PLUS (Generic)
+> Using maimai PRiSM (Generic)
 
 ![scoreb50.jpg](scoreb50.jpg)
-
-> Using maimai PRiSM (Generic)
->
-> *Due to the fact that some charts are not yet released in the INTL version, this version's plays will not be updated in the graph. Damn, I simply wants to play the latest charts.*
-
-![prismb50.jpg](prismb50.jpg)
 
 ### Rating Graph
 
