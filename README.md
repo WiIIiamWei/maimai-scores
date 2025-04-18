@@ -36,6 +36,8 @@ Use `main.py` to add new scores. Use `history/graph.py` to draw history graphs (
 
 [maimai | arcade-songs](https://arcade-songs.zetaraku.dev/maimai/)
 
-[舞萌 DX 查分器](https://www.diving-fish.com/maimaidx/prober/)
+[舞萌 DX | 中二节奏查分器（水鱼）](https://www.diving-fish.com/maimaidx/prober/)
+
+[maimai DX 查分器（落雪）](https://maimai.lxns.net/)
 
 [可怜 Bot](https://karenbot.xszq.xyz)
