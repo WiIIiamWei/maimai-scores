@@ -4,7 +4,7 @@
 
 Here keeps all my maimai scores (unofficial) from AstroDX and official scores from maimai (CN ver.). See the progress here.
 
-Use `main.py` to add new scores. Use `history/graph.py` to draw history graphs (`matplotlib`, `numpy`, `tesseract`, `pillow`, `opencv-python` required). 
+Use `history/graph.py` to draw history graphs (`matplotlib`, `numpy`, `tesseract`, `pillow`, `opencv-python`, `requests` required). 
 
 ## AstroDX
 
@@ -30,11 +30,7 @@ Use `main.py` to add new scores. Use `history/graph.py` to draw history graphs (
 
 ## References
 
-[mai-tools Rating Calculator](https://myjian.github.io/mai-tools/rating-calculator/#ratingOutput)
-
 [DXRating.net](https://dxrating.net/rating)
-
-[maimai | arcade-songs](https://arcade-songs.zetaraku.dev/maimai/)
 
 [舞萌 DX | 中二节奏查分器（水鱼）](https://www.diving-fish.com/maimaidx/prober/)
 

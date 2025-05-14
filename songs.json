@@ -962,5 +962,21 @@
     {
         "sheetId": "躯樹の墓守__dxrt__dx__dxrt__expert",
         "achievementRate": 100.8234
+    },
+    {
+        "sheetId": "Falling__dxrt__dx__dxrt__master",
+        "achievementRate": 100.3421
+    },
+    {
+        "sheetId": "RIFFRAIN__dxrt__dx__dxrt__master",
+        "achievementRate": 99.8493
+    },
+    {
+        "sheetId": "群青シグナル__dxrt__dx__dxrt__master",
+        "achievementRate": 99.7685
+    },
+    {
+        "sheetId": "星空パーティーチューン__dxrt__dx__dxrt__master",
+        "achievementRate": 99.1415
     }
 ]
