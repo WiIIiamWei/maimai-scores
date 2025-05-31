@@ -729,7 +729,7 @@
     },
     {
         "sheetId": "INTERNET YAMERO__dxrt__dx__dxrt__remaster",
-        "achievementRate": 99.6187
+        "achievementRate": 99.9406
     },
     {
         "sheetId": "強風オールバック__dxrt__dx__dxrt__master",
@@ -769,7 +769,7 @@
     },
     {
         "sheetId": "壱雫空__dxrt__dx__dxrt__master",
-        "achievementRate": 98.733
+        "achievementRate": 99.9483
     },
     {
         "sheetId": "MarbleBlue.__dxrt__dx__dxrt__expert",
@@ -889,7 +889,7 @@
     },
     {
         "sheetId": "オーバーライド__dxrt__dx__dxrt__master",
-        "achievementRate": 99.8953
+        "achievementRate": 100.2873
     },
     {
         "sheetId": "いっぱい食べる君が好きだよ__dxrt__dx__dxrt__master",
@@ -985,7 +985,7 @@
     },
     {
         "sheetId": "ヒバリ__dxrt__dx__dxrt__master",
-        "achievementRate": 100.1278
+        "achievementRate": 100.4085
     },
     {
         "sheetId": "フィクサー__dxrt__std__dxrt__master",
@@ -1010,5 +1010,9 @@
     {
         "sheetId": "迷える音色は恋の唄__dxrt__dx__dxrt__master",
         "achievementRate": 99.6464
+    },
+    {
+        "sheetId": "アンバークロニクル__dxrt__dx__dxrt__master",
+        "achievementRate": 100.4672
     }
 ]
