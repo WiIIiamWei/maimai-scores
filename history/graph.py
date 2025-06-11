@@ -99,7 +99,7 @@ def main():
     real_diff = current_real_rating - last_real_rating
     print(f"Diff: {real_diff}")
 
-    if diff > 0:
+    if diff != 0:
         with open('history/rating.csv', 'a', newline='') as csvfile:
             writer = csv.writer(csvfile)
             writer.writerow([time, last_rating])
@@ -108,7 +108,7 @@ def main():
     else:
         print("No change in rating")
 
-    if real_diff > 0:
+    if real_diff != 0:
         with open('history/realrating.csv', 'a', newline='') as realcsvfile:
             writer = csv.writer(realcsvfile)
             writer.writerow([time, last_real_rating])
